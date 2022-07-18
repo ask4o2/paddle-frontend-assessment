@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Deployment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has been deployed to the url below
+
+### https://paddle-test.vercel.app
+
+# Description
+
+ELC Paddle frontend assessment. Task 1 and 2
+
+# Libraries / Dependencies
+
+### React
+
+### Material UI icons
+
+### react-spinners-kit
+
+### react-router-dom
+
+### tailwindcss {dev-Dependency}
 
 ## Available Scripts
 
@@ -60,10 +78,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `yarn build` fails to minify
 
